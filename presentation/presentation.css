@@ -35,3 +35,12 @@ background-size: cover;
     margin-left: auto;
     padding-top: 10px
 }
+
+.bouton3 {
+
+    display: block;
+    border: 1px;
+    width: 100px;
+    margin-left: auto;
+    padding-top: 10px
+}
